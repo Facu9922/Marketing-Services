@@ -32,6 +32,7 @@
     font-family: 'Libre Baskerville', serif;  
     color: black;
    }
+   
    .roboto{
     font-family: 'Roboto', sans-serif;
     color: black;
@@ -63,6 +64,7 @@
 
    .mail{
        text-decoration: none;
+       
 
    }
 
@@ -90,3 +92,4 @@
 a:visited {color:black;}
 a:active {color:black;}
 a:hover {color:black;}
+
